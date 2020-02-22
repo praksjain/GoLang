@@ -1,9 +1,25 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////
+/* Module for BASICS OF GO METHOD. */
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+/*Copyright © https://github.com/praksjain/golang
+Author : Prakhar Jain
+Version : 1.0
+Description : Script to understand basics of go method.
+File Name : method.go
+*/
+
+// Main
 package main
 
+// Built -in imports
 import "fmt"
 
+// Assigning constant values
 const unsixteenbitmax float64 = 65535
 const kmh_multiple float64 = 1.60934
+
 
 // Struct - a type of class in golang
 type car struct {

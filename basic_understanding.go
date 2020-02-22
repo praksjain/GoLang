@@ -3,8 +3,8 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-/*Copyright © Prakhar Jain.
-Author : praks.jain7@gmail.com
+/*Copyright © https://github.com/praksjain/golang
+Author : Prakhar Jain
 Version : 1.0
 Description : Script to understand basics of go (adding, concatenating, pointers).
 File Name : basic_understanding.go
